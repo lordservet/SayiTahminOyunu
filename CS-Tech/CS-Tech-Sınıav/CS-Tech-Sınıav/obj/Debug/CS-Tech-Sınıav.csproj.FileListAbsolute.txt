@@ -1,0 +1,8 @@
+F:\visual studio 2010\Projects\Kişisel\CS-Tech\CS-Tech-Sınıav\CS-Tech-Sınıav\bin\Debug\CS-Tech-Sınıav.exe
+F:\visual studio 2010\Projects\Kişisel\CS-Tech\CS-Tech-Sınıav\CS-Tech-Sınıav\bin\Debug\CS-Tech-Sınıav.pdb
+F:\visual studio 2010\Projects\Kişisel\CS-Tech\CS-Tech-Sınıav\CS-Tech-Sınıav\obj\Debug\CS-Tech-Sınıav.csprojResolveAssemblyReference.cache
+F:\visual studio 2010\Projects\Kişisel\CS-Tech\CS-Tech-Sınıav\CS-Tech-Sınıav\obj\Debug\CS_Tech_Sınıav.Form1.resources
+F:\visual studio 2010\Projects\Kişisel\CS-Tech\CS-Tech-Sınıav\CS-Tech-Sınıav\obj\Debug\CS_Tech_Sınıav.Properties.Resources.resources
+F:\visual studio 2010\Projects\Kişisel\CS-Tech\CS-Tech-Sınıav\CS-Tech-Sınıav\obj\Debug\CS-Tech-Sınıav.csproj.GenerateResource.Cache
+F:\visual studio 2010\Projects\Kişisel\CS-Tech\CS-Tech-Sınıav\CS-Tech-Sınıav\obj\Debug\CS-Tech-Sınıav.exe
+F:\visual studio 2010\Projects\Kişisel\CS-Tech\CS-Tech-Sınıav\CS-Tech-Sınıav\obj\Debug\CS-Tech-Sınıav.pdb
